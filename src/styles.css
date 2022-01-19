@@ -1,0 +1,16 @@
+.box {
+  margin: 40px;
+  background-color: blueviolet;
+  color: white;
+  padding: 24px 30px;
+  width: 150px;
+}
+
+.box:nth-child(2) {
+  display: inline-block;
+  width: 200px;
+}
+
+/*.box:nth-child(3) {
+  display: inline-block;
+} */
